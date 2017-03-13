@@ -102,6 +102,8 @@ $login->attach([
 $login->fire();
 
 /*
+ * Decorator pattern mostly use to create events for objects
+ *
  * For more information see :
  * @link: https://en.wikipedia.org/wiki/Observer_pattern
  */

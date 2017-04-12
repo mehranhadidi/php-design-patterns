@@ -1,0 +1,15 @@
+{
+    "name": "mehran/abstract-factory",
+    "authors": [
+        {
+            "name": "Mehran",
+            "email": "mehran.hadidi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
